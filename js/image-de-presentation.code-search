@@ -1,9 +1,251 @@
-# Query: la-chouette-agence-ba
+# Query: href
 # ContextLines: 1
 
-1 résultat - 1 fichier
+92 résultats - Fichiers 8
 
-style.css:
-  820  .bg-banniere {
-  821:     background-image: url("img/la-chouette-agence-banniere.jpeg");
-  822  }
+index.html:
+    7  	<meta name="robots" content="all">
+    8:     <link rel="shortcut icon" type="image/png" href="favicon.jpg">
+    9      
+   10: 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
+   11: 	<link rel="stylesheet" type="text/css" href="style.css">
+   12: 	<link rel="stylesheet" rel="preload" type="text/css" href="./css/font-awesome.css">
+   13: 	<link rel="stylesheet" type="text/css" href="./css/et-line.css">
+   14  	
+
+   40  				<div class="keywords" style="color:#cccccc;font-size:1px;">Agence web à paris, stratégie web, web design, illustrations, design de site web, site web, web, internet, site internet, site</div>
+   41: 				<a class="navbar-brand" href="index.html"><img src="img/la-chouette-agence.png" alt="Lyon web design logo agence web meilleure agence" height="40" /></a>
+   42  				<div class="keywords" style="color:#cccccc;font-size:1px;">Agence web à paris, stratégie web, web design, illustrations, design de site web, site web, web, internet, site internet, site</div>
+
+   49  					<li>
+   50: 						<a href="index.html">Accueil</a>
+   51  					</li>
+
+   54  					<li>
+   55: 						<a href="page2.html">page2 &gt;</a>
+   56  					</li>
+
+   73  				<div class="text-center">
+   74: 					<a href="page2.html" class="btn btn-lg btn-clean btn-rd cta-hero btn-atomic-tangerine" id="cta-hero">Contact</a>
+   75  				</div>
+
+  143  				<p class="text-center white">
+  144: ⟪ 271 characters skipped ⟫ez pas à nous contacter. Nous travaillerons ensemble pour créer des sites beau et bien structurés, qui seront facilement trouvable sur les moteurs de recherche. <br><br><a class="ltc-white bold-link" href="page2.html">Contactez notre équipe</a><br>
+  145  				</p>
+
+  161  			<div class="col-sm-6">
+  162: 				<a href=""data-lightbox="img/1.jpeg" data-gallery-id="gallery-1" data-caption="Refonte d'un site web pour un journal local" data-frame="snapshot-lb"><img src="img/1.jpeg" alt="Le web design a Lyon logo agence web meilleure agence et refonte site web journal" class="img-responsive portfolio-thumb" /></a>
+  163  				<h3 class="mg-md text-center">
+
+  170  			<div class="col-sm-6">
+  171: 				<a href="" data-lightbox="img/2.jpg" data-gallery-id="gallery-1" data-caption="Création d'un site web pour photographes" data-frame="snapshot-lb"><img src="img/2.jpg" class="img-responsive portfolio-thumb" alt="le web design a Lyon logo agence web meilleure agence, Création d'un site web pour photographes" /></a>
+  172  				<h3 class="mg-md text-center">
+
+  181  			<div class="col-sm-6">
+  182: 				<a href="" data-lightbox="img/3.jpeg" data-gallery-id="gallery-1" data-caption="Création d'un site internet pour un voyageur" data-frame="snapshot-lb"><img src="img/3.jpeg" class="img-responsive portfolio-thumb" alt="le web design a Lyon logo agence web meilleure agence, Création d'un site web pour voyageur"/></a>
+  183  				<h3 class="mg-md text-center">
+
+  190  			<div class="col-sm-6">
+  191: 				<a href="" data-lightbox="img/4.jpeg" data-gallery-id="gallery-1" data-caption="Conception d'un site pour une agence de mariage" data-frame="snapshot-lb"><img src="img/4.jpeg" class="img-responsive portfolio-thumb" alt="Le web design a Lyon logo agence web meilleure agence, Création d'un site web pour agence de mariage" /></a>
+  192  				<h3 class="mg-md text-center">
+
+  211  			<div class="col-sm-12 text-center">
+  212: 				<a href="page2.html" class="btn btn-atomic-tangerine btn-clean btn-rd btn-lg cta-hero">Contact</a>
+  213  			</div>
+
+  229  						<div class="text-center">
+  230: 							<a class="social" href="index.html"><span class="fa fa-twitter icon-md"></span></a>
+  231  						</div>
+
+  234  						<div class="text-center">
+  235: 							<a class="social" href="index.html"><span class="fa fa-facebook icon-md"></span></a>
+  236  						</div>
+
+  239  						<div class="text-center">
+  240: 							<a class="social" href="index.html"><span class="fa fa-dribbble icon-md"></span></a>
+  241  						</div>
+
+  244  						<div class="text-center">
+  245: 							<a class="social" href="index.html"><span class="fa fa-instagram icon-md"></span></a>
+  246  						</div>
+
+  252  							<ul>
+  253: 								<li><a href="voiture.com">voiture.com</a></li>
+  254: 								<li><a href="pizza.com">pizza.com</a></li>
+  255: 								<li><a href="matoiture.com">matoiture.com</a></li>
+  256: 								<li><a href="immobilierseo.com">immobilierseo.com</a></li>
+  257  							</ul>		
+
+  261  						<ul>
+  262: 							<li><a href="annuaireagence.com">annuaireagence.com</a></li>
+  263: 							<li><a href="annuaireseo.com">annuaireseo.com</a></li>
+  264: 							<li><a href="annuairemarketing.com">annuairemarketing.com</a></li>
+  265: 							<li><a href="123seoture.com">123seo.com</a></li>
+  266: 							<li><a href="123site.com">123site.com</a></li>
+  267: 							<li><a href="annuairewordpress.com">annuairewordpress.com</a></li>
+  268: 							<li><a href="listeagence.com">listeagence.com</a></li>
+  269: 							<li><a href="meilleuresagencesparis.com">meilleuresagencesparis.com</a></li>
+  270: 							<li><a href="listeseo.com">listeseo.com</a></li>
+  271  						</ul>
+
+  275  						<ul>
+  276: 							<li><a href="betterseo.com">betterseo.com</a></li>
+  277: 							<li><a href="ameliorerseo.com">ameliorerseo.com</a></li>
+  278: 							<li><a href="seojuicelien.com">seojuicelien.com</a></li>
+  279: 							<li><a href="meilleursliens.com">meilleursliens.com</a></li>
+  280: 							<li><a href="liensagogo.com">liensagogo.com</a></li>
+  281: 							<li><a href="backlink.com">backlink.com</a></li>
+  282: 							<li><a href="linkjuiceannuaire.com">linkjuiceannuaire.com</a></li>
+  283: 							<li><a href="remontersurgoogle.com">remontersurgoogle.com</a></li>
+  284: 							<li><a href="vraiseofiable.com">vraiseofiable.com</a></li>
+  285  						</ul>
+
+page2.html:
+    7  	<meta name="robots" content="all">
+    8:     <link rel="shortcut icon" type="image/png" href="favicon.jpg">
+    9      
+   10: 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
+   11: 	<link rel="stylesheet" type="text/css" href="style.css">
+   12: 	<link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
+   13: 	<link rel="stylesheet" type="text/css" href="./css/et-line.min.css">
+   14  	
+
+   37  			<div class="navbar-header">
+   38: 				<a class="navbar-brand" href="index.html"><img src="img/la-chouette-agence.png" alt=" web design a Lyon logo" height="40" /></a>
+   39  				<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
+
+   45  					<li>
+   46: 						<a href="index.html">Accueil</a>
+   47  					</li>
+   48  				    <li>
+   49: 						<a href="page2.html">page2 &gt;</a>
+   50  					</li>
+
+  126  						<div class="text-center">
+  127: 							<a class="social" href="index.html"><span class="fa fa-twitter icon-md"></span></a>
+  128  						</div>
+
+  131  						<div class="text-center">
+  132: 							<a class="social" href="index.html"><span class="fa fa-facebook icon-md"></span></a>
+  133  						</div>
+
+  136  						<div class="text-center">
+  137: 							<a class="social" href="index.html"><span class="fa fa-dribbble icon-md"></span></a>
+  138  						</div>
+
+  141  						<div class="text-center">
+  142: 							<a class="social" href="index.html"><span class="fa fa-instagram icon-md"></span></a>
+  143  						</div>
+
+css/bootstrap.css:
+   247      }
+   248:     a[href]:after {
+   249:         content: " (" attr(href) ")"
+   250      }
+
+   253      }
+   254:     a[href^="javascript:"]:after,
+   255:     a[href^="#"]:after {
+   256          content: ""
+
+  5880  
+  5881: .label-default[href]:focus,
+  5882: .label-default[href]:hover {
+  5883      background-color: #5e5e5e
+
+  5889  
+  5890: .label-primary[href]:focus,
+  5891: .label-primary[href]:hover {
+  5892      background-color: #286090
+
+  5898  
+  5899: .label-success[href]:focus,
+  5900: .label-success[href]:hover {
+  5901      background-color: #449d44
+
+  5907  
+  5908: .label-info[href]:focus,
+  5909: .label-info[href]:hover {
+  5910      background-color: #31b0d5
+
+  5916  
+  5917: .label-warning[href]:focus,
+  5918: .label-warning[href]:hover {
+  5919      background-color: #ec971f
+
+  5925  
+  5926: .label-danger[href]:focus,
+  5927: .label-danger[href]:hover {
+  5928      background-color: #c9302c
+
+fonts/et-line.svg:
+  5  This is a custom SVG font generated by IcoMoon.
+  6: <iconset id="et-line" name="et-line" href="http://www.elegantthemes.com" grid="16"></iconset><author name="Elegant Themes" href="http://www.elegantthemes.com"></author><license name="GPL 2.0" href="http://www.gnu.org/licenses/gpl-2.0.html"></license>
+  7  </metadata>
+
+js/blocs.js:
+  142          1 == i && (n = "autoplay");
+  143:         var s = $('<div id="lightbox-modal" class="modal fade"><div class="modal-dialog"><div class="modal-content ' + l + ' blocs-lb-container"><button id="blocs-lightbox-close-btn" type="button" class="close-lightbox" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button><div class="modal-body"><a href="#" class="prev-lightbox" aria-label="prev"><span class="fa fa-chevron-left"></span></a><a href="#" class="next-lightbox" aria-label="next"><span class="fa fa-chevron-right"></span></a><img id="lightbox-image" class="img-responsive" src="' + e + '"><div id="lightbox-video-container" class="embed-responsive embed-responsive-16by9"><video controls ' + n + ' class="embed-responsive-item"><source id="lightbox-video" src="' + e + '" type="video/mp4"></video></div>' + a + "</div></div></div></div>");
+  144          $("body").append(s), "fullscreen-lb" == l && ($("#lightbox-modal").addClass("fullscreen-modal").append('<a class="close-full-screen-modal animated fadeIn" style="animation-delay:0.5s;" onclick="$(\'#lightbox-modal\').modal(\'hide\');"><div class="close-icon"></div></a>'), $("#blocs-lightbox-close-btn").remove()), ".mp4" == e.substring(e.length - 4) ? ($("#lightbox-image, .lightbox-caption").hide(), $("#lightbox-video-container").show()) : ($("#lightbox-image,.lightbox-caption").show(), $("#lightbox-video-container").hide()), $("#lightbox-modal").modal("show"), "no-gallery-set" == o ? (0 == $("a[data-lightbox]").index(targetLightbox) && $(".prev-lightbox").hide(), $("a[data-lightbox]").index(targetLightbox) == $("a[data-lightbox]").length - 1 && $(".next-lightbox").hide()) : (0 == $('a[data-gallery-id="' + o + '"]').index(targetLightbox) && $(".prev-lightbox").hide(), $('a[data-gallery-id="' + o + '"]').index(targetLightbox) == $('a[data-gallery-id="' + o + '"]').length - 1 && $(".next-lightbox").hide()), addLightBoxSwipeSupport()
+
+js/bootstrap.js:
+   65              f = e.attr("data-target");
+   66:         f || (f = e.attr("href"), f = f && f.replace(/.*(?=#[^\s]*$)/, ""));
+   67          var g = a(f);
+
+  206          var d, e = a(this),
+  207:             f = a(e.attr("data-target") || (d = e.attr("href")) && d.replace(/.*(?=#[^\s]+$)/, ""));
+  208          if (f.hasClass("carousel")) {
+
+  223      function b(b) {
+  224:         var c, d = b.attr("data-target") || (c = b.attr("href")) && c.replace(/.*(?=#[^\s]+$)/, "");
+  225          return a(d)
+
+  236      var d = function(b, c) {
+  237:         this.$element = a(b), this.options = a.extend({}, d.DEFAULTS, c), this.$trigger = a('[data-toggle="collapse"][href="#' + b.id + '"],[data-toggle="collapse"][data-target="#' + b.id + '"]'), this.transitioning = null, this.options.parent ? this.$parent = this.getParent() : this.addAriaAndCollapsedClass(this.$element, this.$trigger), this.options.toggle && this.toggle()
+  238      };
+
+  300          var c = b.attr("data-target");
+  301:         c || (c = b.attr("href"), c = c && /#[A-Za-z]/.test(c) && c.replace(/.*(?=#[^\s]*$)/, ""));
+  302          var d = c && a(c);
+
+  477          var d = a(this),
+  478:             e = d.attr("href"),
+  479              f = a(d.attr("data-target") || e && e.replace(/.*(?=#[^\s]+$)/, "")),
+
+  787              var b = a(this),
+  788:                 e = b.data("target") || b.attr("href"),
+  789                  f = /^#./.test(e) && a(e);
+
+  809          this.activeTarget = b, this.clear();
+  810:         var c = this.selector + '[data-target="' + b + '"],' + this.selector + '[href="' + b + '"]',
+  811              d = a(c).parents("li").addClass("active");
+
+  842              d = b.data("target");
+  843:         if (d || (d = b.attr("href"), d = d && d.replace(/.*(?=#[^\s]*$)/, "")), !b.parent("li").hasClass("active")) {
+  844              var e = c.find(".active:last a"),
+
+js/gmaps.js:
+  372  
+  373:           html += '<li><a id="' + control + '_' + i + '" href="#">' + option.title + '</a></li>';
+  374          }
+
+js/jquery-2.1.0.js:
+   621                  focus: function(a) {
+   622:                     return a === l.activeElement && (!l.hasFocus || l.hasFocus()) && !!(a.type || a.href || ~a.tabIndex)
+   623                  },
+
+   883          }), gb(function(a) {
+   884:             return a.innerHTML = "<a href='#'></a>", "#" === a.firstChild.getAttribute("href")
+   885:         }) || hb("type|href|height|width", function(a, b, c) {
+   886              return c ? void 0 : a.getAttribute(b, "type" === b.toLowerCase() ? 1 : 2)
+
+  2404                  get: function(a) {
+  2405:                     return a.hasAttribute("tabindex") || _b.test(a.nodeName) || a.href ? a.tabIndex : -1
+  2406                  }
+
+  2557      try {
+  2558:         fc = location.href
+  2559      } catch (qc) {
+  2560:         fc = m.createElement("a"), fc.href = "", fc = fc.href
+  2561      }
