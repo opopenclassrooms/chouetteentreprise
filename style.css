@@ -79,6 +79,7 @@ a:hover {
 
 .bg-t-edge {
     background: top no-repeat;
+    
 }
 
 .bloc-bg-texture::before {
@@ -774,7 +775,9 @@ h4 {
 
 .bgc-dark-slate-blue {
     background-color: #364577;
+
 }
+
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
@@ -825,6 +828,8 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.jpeg");
+    size: 100%;
+    
 }
 
 .bg-presentation {
