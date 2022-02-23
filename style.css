@@ -658,6 +658,7 @@ a {
     font-display: swap;
     font-weight: 400;
     color: #141414!important;
+    font-size: 15px;
 }
 
 .container {
@@ -683,7 +684,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: px;
 }
 
 .tight-width-whitespace {
