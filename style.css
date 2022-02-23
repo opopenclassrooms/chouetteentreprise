@@ -659,6 +659,13 @@ a {
     font-weight: 400;
     color: #141414!important;
     font-size: 15px;
+    
+}
+li a{
+    display: flex;
+     font-size: 15px;
+     height: 45px;
+     text-align: center;
 }
 
 .container {
